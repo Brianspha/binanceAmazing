@@ -246,7 +246,7 @@
   ],
   "className": "IERC1620",
   "args": [],
-  "gas": "auto",
+  "gas": "6000000",
   "silent": false,
   "track": true,
   "deploy": false,
@@ -268,5 +268,5 @@
   "originalFilename": "contracts/interfaces/IERC1620.sol",
   "path": "/Users/powerbite/Documents/myrepos/amazeng/contracts/interfaces/IERC1620.sol",
   "type": "file",
-  "deploymentAccount": "0xF652FcF94b5BbDCAC3BF508c6453Cca69bB4213A"
+  "deploymentAccount": "0x0d329606AEecc822112b1F36f60Dc7f0bD97d2f9"
 }
